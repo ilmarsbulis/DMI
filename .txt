@@ -1,0 +1,86 @@
+    1  VirtualBox --startvm XP
+    2  firefox&
+    3  shell
+    4  echo $0
+    5  pwd
+    6  who
+    7  ls
+    8  cat /etc/*-releasecat /etc/*-release
+    9  cat
+   10  echo
+   11  manman 
+   12  man
+   13  11
+   14  1
+   15  man ls
+   16  ls
+   17  pwd
+   18  cd documents
+   19  cd /home/user/Documents
+   20  cd .
+   21  cd /VirtualBox
+   22  cd /home/user/Documents/VirtualBox
+   23  cd /home/user/Documents/VirtualBox/VMs
+   24  cd ..
+   25  ls-l
+   26  ls -l
+   27  ls -s
+   28  cd /Documents
+   29  cd Documents/
+   30  cd ..
+   31  ls-la
+   32  ls -la
+   33  cd ..
+   34  pwd
+   35  /ls -la
+   36  ls -la
+   37  cd ..
+   38  pwd
+   39  ls -la
+   40  cd ..
+   41  cd //
+   42  cd ..
+   43  cd home/
+   44  pwd
+   45  cd ~
+   46  pwd
+   47  cd /
+   48  pwd
+   49  cd /home/user/
+   50  cd /
+   51  pwd
+   52  cd
+   53  pwd
+   54  ls
+   55  mkdir darbi
+   56  ls
+   57  ls -l
+   58  cd darbi
+   59  pwd
+   60  ls -la
+   61  history
+   62  history > history.txt
+   63  ls -la
+   64  cat history.txt 
+   65  pwd
+   66  > ls
+   67  history.txt 
+   68  >ls history.txt
+   69  git init
+   70  git add .
+   71  git config --global user.email lacnerwep@inbox.lv
+   72  git commit -m "20170913_09_31"
+   73  >ls history.txt
+   74  git init
+   75  git add .
+   76  git config --global user.email ilmarsbulis@gmail.com
+   77  git commit -m "20170913_09_31"
+   78  pwd
+   79  darbi$ git init
+   80  git init
+   81  git add .
+   82  git config --global user.email ilmarsbulis@gmail.com
+   83  git commit -m "20170913_10_10_"
+   84  git remote add origin http://github.com/rtu-etf/2017_2018_
+   85  echo
+   86  history >.txt 

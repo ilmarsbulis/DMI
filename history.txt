@@ -1,0 +1,116 @@
+    1  VirtualBox --startvm XP
+    2  firefox&
+    3  shell
+    4  echo $0
+    5  pwd
+    6  who
+    7  ls
+    8  cat /etc/*-releasecat /etc/*-release
+    9  cat
+   10  echo
+   11  manman 
+   12  man
+   13  11
+   14  1
+   15  man ls
+   16  ls
+   17  pwd
+   18  cd documents
+   19  cd /home/user/Documents
+   20  cd .
+   21  cd /VirtualBox
+   22  cd /home/user/Documents/VirtualBox
+   23  cd /home/user/Documents/VirtualBox/VMs
+   24  cd ..
+   25  ls-l
+   26  ls -l
+   27  ls -s
+   28  cd /Documents
+   29  cd Documents/
+   30  cd ..
+   31  ls-la
+   32  ls -la
+   33  cd ..
+   34  pwd
+   35  /ls -la
+   36  ls -la
+   37  cd ..
+   38  pwd
+   39  ls -la
+   40  cd ..
+   41  cd //
+   42  cd ..
+   43  cd home/
+   44  pwd
+   45  cd ~
+   46  pwd
+   47  cd /
+   48  pwd
+   49  cd /home/user/
+   50  cd /
+   51  pwd
+   52  cd
+   53  pwd
+   54  ls
+   55  mkdir darbi
+   56  ls
+   57  ls -l
+   58  cd darbi
+   59  pwd
+   60  ls -la
+   61  history
+   62  history > history.txt
+   63  ls -la
+   64  cat history.txt 
+   65  pwd
+   66  > ls
+   67  history.txt 
+   68  >ls history.txt
+   69  git init
+   70  git add .
+   71  git config --global user.email lacnerwep@inbox.lv
+   72  git commit -m "20170913_09_31"
+   73  >ls history.txt
+   74  git init
+   75  git add .
+   76  git config --global user.email ilmarsbulis@gmail.com
+   77  git commit -m "20170913_09_31"
+   78  pwd
+   79  git init
+   80  git add .
+   81  git config --global user.email ilmarsbulis@gmail.com
+   82  git commit -m "20170913_09_35_
+   83  git commit -m "20170913_09_35_"
+   84  echo [option(s)] [string(s)]
+   85  echo option(s) string(s)
+   86  echo [option s ] [string s ]
+   87  echo Tecmint is a community of Linux Nerds
+   88  x=10
+   89  echo The value of variable x = $x
+   90  -e
+   91  echo -e
+   92  echo -e "Tecmint \bis \ba \bcommunitty /bof \bLinux \bNerds"
+   93  echo -e "Tecmint \bis \ba \bcommunitty \bof \bLinux \bNerds"
+   94  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   95  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   96  echo -e "\n\tTecmint \n\tis \n\ta \
+echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+   97  echo -e "\n\tTecmint \n\tis \n\ta \
+echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+   98  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   99  echo -e "vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+  100  echo -e "\n\vTecmint \n\vis \n\va \n\vof \n\vLinux \n\vNerds"
+  101  echo -e "Tecmint \ris a community of Linux Nerds" 
+  102  -e "Tecmint is a community \cof Linux Nerds"
+  103  echo -e "Tecmint is a community \cof Linux Nerds"
+  104  echo -n "Tecmint is a community of Linux Nerds" 
+  105  echo -e "Tecmint is a community of \aLinux Nerds" 
+  106  echo *
+  107  echo *.txt 
+  108  echo "Test Page" > testpage 
+  109  echo "Test Page" > tekst.txt 
+  110  history >.txt 
+  111  ls -l
+  112  history > .txt 
+  113  ls -l
+  114  history > history.txt 
