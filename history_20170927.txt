@@ -31,3 +31,40 @@
    31  ls -la
    32  nano git-upload
    33  history > history_20170927.txt
+   34  pwd
+   35  PATH=$PATH:/home/ubuntu/DMI
+   36  echo $PATH
+   37  git-upload
+   38  git init
+   39  git add .
+   40  git config --global user.email ilmarsbulis@gmail.com
+   41  git commit -m "20170927_10_00_"
+   42  git-upload
+   43  ls -la
+   44  chmod  744 git-upload
+   45  git-upload
+   46  $echo$$
+   47  $echo $$
+   48  nano shell_programming.sh 
+   49  echo $0
+   50  echo $$
+   51  echo $#
+   52  echo $@
+   53  echo $?
+   54  echo $n
+   55  echo $!
+   56  nano shell_programming.sh
+   57  shell_programming.sh 
+   58  cat shell_programming.sh 
+   59  shell_programming.sh arg1
+   60  shell_programming.sh arg1 arg2
+   61  shell_programming.sh arg1 arg2 arg3
+   62  nano shell_programming.sh 
+   63  shell_programming.sh arg1 arg2 arg3
+   64  nano shell_programming.sh 
+   65  shell_programming.sh arg1 arg2 arg3
+   66  nano shell_programming.sh 
+   67  shell_programming.sh arg1 arg2
+   68  nano shell_programming.sh 
+   69  nano git-upload 
+   70  history > history_20170927.txt
