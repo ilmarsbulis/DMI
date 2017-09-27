@@ -1,0 +1,33 @@
+    1  git clone https://github.com/ilmarsbulis/DMI
+    2  sudo apt-get install git
+    3  apt-get update
+    4  sudo apt-get update
+    5  sudo apt-get install git
+    6  man git
+    7  git clone https://github.com/ilmarsbulis/DMI
+    8  ls -l
+    9  cd DMI
+   10  mainigais=10
+   11  echo $mainigais
+   12  echo $mainiigais
+   13  mainigais_____=20
+   14  echo mainigais_____
+   15  pwd
+   16  nano shell_programming.sh
+   17  cat /etc/shells
+   18  ls -l
+   19  chmod 744 shell_programming.sh 
+   20  ls -l
+   21  shell_programming.sh
+   22  ./shell_programming.sh 
+   23  cat shell_programming.sh 
+   24  nano shell_programming.sh 
+   25  ./shell_programming.sh 
+   26  nano shell_programming.sh 
+   27  ./shell_programming.sh 
+   28  nano shell_programming.sh 
+   29  ./shell_programming.sh 
+   30  nano shell_programming.sh 
+   31  ls -la
+   32  nano git-upload
+   33  history > history_20170927.txt
