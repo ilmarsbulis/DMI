@@ -1,0 +1,87 @@
+    1  lsv-la
+    2  ls -la
+    3  sudo apt-get update
+    4  sudo apt-get update
+    5  sudo apt-get install git
+    6  git clone https://github.com/ilmarsbulis/DMI
+    7  cd DMI
+    8  ls -la
+    9  nano shell_programming.sh 
+   10  bash shell_programming.sh 
+   11  cd ~
+   12  pwd
+   13  ls =la
+   14  ls -la
+   15  cd DMI
+   16  ls -l
+   17  nano shell.operators.sh
+   18  a=10
+   19  b=20
+   20  PATH=$PATH:/home/ubuntu/DMI
+   21  echo $PATH
+   22  chmod 744 shell.operators.sh 
+   23  a + b 
+   24  'expr a$ + b$'
+   25  nano shell.operators.sh
+   26  'expr $a + $b'
+   27  val='expr $a + $b'
+   28  echo "echo a + b : $val"
+   29  'expr $a + $b'
+   30  nano shell.operators.sh
+   31  `expr $a + $b`
+   32  `expr $a - $b`
+   33  nano shell.operators.sh
+   34  a + b
+   35  /.shell.operators.sh
+   36  /. shell.operators.sh
+   37  nano shell.operators.sh
+   38  val a+b
+   39  val `expr a + b`
+   40  val `expr $a + $b`
+   41* 
+   42  `expr $a + $b`
+   43  nano shell.operators.sh
+   44  ./shell_operators.sh
+   45  chmod 744 shell.operators.sh
+   46  ./shell_operators.sh
+   47  ls -la
+   48  nano shell.operators.sh
+   49  PATH=$PATH:/home/ubuntu/DMI
+   50  chmod 744 shell.operators.sh
+   51  ./shell_operators.sh
+   52  ./shell.operators.sh
+   53  nano shell.operators.sh
+   54  ./shell.operators.sh
+   55  nano shell.operators.sh
+   56  ./shell.operators.sh
+   57  nano shell.operators.sh
+   58  ./shell.operators.sh
+   59  nano shell.operators.sh
+   60  ./shell.operators.sh
+   61  nano git-upload
+   62  history > history_20171011.txt
+   63  ./git.upload
+   64  chmod 744 git-upload
+   65  ./git.upload
+   66  ls -la
+   67  ./git-upload
+   68  nano git-upload
+   69  nano shell.operators.sh
+   70  ./shell.operators.sh 89 45
+   71  nano shell.operators.sh
+   72  nano shell.operators.sh 30 15
+   73  nano shell.operators.sh
+   74  nano shell.operators.sh 50 10
+   75  ./shell.operators.sh 50 10
+   76  nano shell.operators.sh
+   77  ./shell.operators.sh 50 10
+   78  nano shell.operators.sh
+   79  ./shell.operators.sh 50 10
+   80  nano shell.operators.sh
+   81  ./shell.operators.sh
+   82  nano shell.operators.sh
+   83  ./shell.operators.sh
+   84  nano shell.operators.sh
+   85  ./shell.operators.sh
+   86  nano git-upload 
+   87  history > history_20171011_2.txt
