@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  git-clone https://github.com/ilmarsbulis/DMI
+    4  ./git-clone https://github.com/ilmarsbulis/DMI
+    5  git init
+    6  ./git-clone https://github.com/ilmarsbulis/DMI
+    7  git-clone https://github.com/ilmarsbulis/DMI
+    8  git add .
+    9  git clone https://github.com/ilmarsbulis/DMI
+   10  cd DMI
+   11  mkdir FINAL
+   12  ls - la
+   13  ls -la
+   14  cd PYTHON
+   15  nano Lab_darbs_1_tabula
+   16  nano Lab_darbs_1_tabula.py
+   17  nano nano cos_funkcija.py
+   18  nano cos_funkcija.py
+   19  nano dichotomy.py
+   20  nano vert.py
+   21  nano zimejumi 
+   22  nano zimejumi.py
+   23  cd ..
+   24  nano shell_operators2.sh
+   25  nano 0_lab_darbs_statistika.sh
+   26  chmod 744 0_lab_darbs_statistika.sh 
+   27  ./0_lab_darbs_statistika.sh 
+   28  import picture_statistika
+   29  cd PYTHON
+   30  ls -la
+   31  chmod 744 Lab_darbs_1_tabula.py 
+   32  ./Lab_darbs_1_tabula.py 
+   33  nano 4_lab_darbs_atvasinašana.py
+   34  chmod 744 4_lab_darbs_atvasinašana.py 
+   35  ./4_lab_darbs_atvasinašana.py 
+   36  nano 4_lab_darbs_atvasinašana.py
+   37  ./4_lab_darbs_atvasinašana.py 
+   38  nano 4_lab_darbs_atvasinašana.py
+   39  ./4_lab_darbs_atvasinašana.py 
+   40  cd..
+   41  cd ..
+   42  cd PYTHON
+   43  import_picture_sinuss_caur_summ.png
+   44  import picture_sinuss_caur_summ.png
+   45  ./git-upload
+   46  cd ..
+   47  ./git-upload
+   48  ./git-upload 27_01_18
+   49  cd FINAL
+   50  nano index.html
+   51  cd ..
+   52  cd PYTHON
+   53  ls -la
+   54  chmod 744 dichotomy.py
+   55  ./dichotomy.py
+   56  nano derrivative.py
+   57  chmod 744 derrivative.py
+   58  ./derrivative.py
+   59  nano derrivative.py
+   60  nano dichotomy.py
+   61  cd ..
+   62  cd FINAL
+   63  cd ..
+   64  ./git-upload 
+   65  ./git-upload 27_01_18
+   66  ./git-upload 
+   67  ./git-upload 27_01_18
+   68  cd FINAL
+   69  nano index.html
+   70  history > history_2018_01_27
