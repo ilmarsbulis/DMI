@@ -1,6 +1,6 @@
 function y = lab3_fun(t)
 t = 0:0.01:8;
-
+t_const2_f = (t>=0)&(t<1); t_const2 = t(t_const2_f);
 %t_const2 = 0:0.01:1;
 t_const2_f = (t>=0)&(t<1); t_const2 = t(t_const2_f);
 %t_sin = 1:0.01:2.5;
@@ -43,10 +43,9 @@ y_const2 = zeros(size(t_const2));
 y_noise = 3*rand(size(t_noise))-1.5;
 %plot(t_noise,y_noise)
 %signalu apvienoshana 
-%t = [t_const2,t_sin,t_noise,t_const,t_saw];
-%y = [y_const2,y_sin,y_noise,y_const,y_saw];
+t = [t_const2,t_sin,t_noise,t_const,t_saw];
+y = [y_const2,y_sin,y_noise,y_const,y_saw];
 plot(t,y)
-
 
 
 
